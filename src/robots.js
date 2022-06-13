@@ -60,7 +60,11 @@ export const robots = [
       email: 'Rey.Padberg@karina.biz'
     }
   ];
-//array of objects
-//we have created robots mannually but it is not realistic ,every time we have to  enter new information when robots is added,
-// we use JSONPlaceholder(Fake Online REST API for Testing and Prototyping Serving) for this,its basically a fake but it looks reallistic   
-// we can use something called API request,which is used to extract the information from the server and we don't have to create it mannually
+
+
+// array of objects
+// we have created robots mannually but it is not realistic ,every time we have to 
+// enter new information when robots is added,
+// we use JSONPlaceholder(Fake Online REST API for Testing and Prototyping Serving) for this,
+// its basically a fake but it looks reallistic. we can use something called API request,
+// which is used to extract the information from the server and we don't have to create it manualy.
