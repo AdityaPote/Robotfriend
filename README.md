@@ -1,8 +1,8 @@
 # RoboFriends
 Interactive RoboFriends react app - Search Robots by their name and contact cards will be dynamically displayed.  
 
-## [Live Preview](https://AdityaPote.github.io/Robotfriends/)
-[![Demo - RoboFriends](Demo-robofriends.gif)](https://AdityaPote.github.io/Robotfriends/)
+## [Live Preview](https://adityapote.github.io/Robotfriend/)
+[![Demo - RoboFriends](Demo-robofriends.gif)](https://adityapote.github.io/Robotfriend/)
 
 ## To run this Project:
 1.  Clone this repo
