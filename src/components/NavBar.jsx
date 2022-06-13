@@ -5,8 +5,7 @@ const NavBar = ({ onSearchChange, onPrefixChange }) => {
         <div className='tc'>
             <h1 className='f1'>Hello Robofriends</h1>
             <SearchBox onSearchChange={onSearchChange} />
-            <SearchBox onSearchChange={onPrefixChange} />
-        </div>
+            </div>
     )
 }
 
