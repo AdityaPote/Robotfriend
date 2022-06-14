@@ -6,7 +6,7 @@ const SearchBox = ({searchChange}) => {  //using destructing here
             <input 
             className=' br3 pa3 ba b--green bg-lightest-blue'
             type='search' 
-            placeholder='search robots' 
+            placeholder='search for a robotfriend' 
             onChange={searchChange}
             />
         </div>  
